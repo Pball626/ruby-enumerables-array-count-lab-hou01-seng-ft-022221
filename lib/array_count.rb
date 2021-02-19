@@ -1,3 +1,4 @@
 def count_strings (array)
-  array.count(Strings)
+  strings == Strings
+  array.count(strings)
 end
